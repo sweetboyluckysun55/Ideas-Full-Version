@@ -239,4 +239,4 @@ This repository serves as the official landing page for iDeaS. The software is d
 **Get the most recent version of iDeaS today!**
 
 ---
-**Last updated:** 2026-09-18 16:52:32 UTC
+**Last updated:** 2026-09-18 19:22:13 UTC
